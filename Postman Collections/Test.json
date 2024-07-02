@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "0111abd5-ed59-46cb-bda4-c26318c2a428",
+		"name": "Testing Github Sync",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Request 23",
+			"id": "cf4d1a7a-38a9-4d97-87e4-0d9dbaafeb14",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "google.com"
+			},
+			"response": []
+		}
+	]
+}
